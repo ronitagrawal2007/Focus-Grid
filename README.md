@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/f0e7ad42-62a0-4906-be66-4e671de5dfed
 # Focus Grid
 
 A Flutter productivity app that combines **recurring task tracking** (daily & weekly habits), a **focus/Pomodoro-style timer**, and a **visual productivity history** — wrapped in a clean, theme-aware UI.
