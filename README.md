@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/f0e7ad42-62a0-4906-be66-4e671de5dfed
 # Focus Grid
 
 A Flutter productivity app that combines **recurring task tracking** (daily & weekly habits), a **focus/Pomodoro-style timer**, and a **visual productivity history** — wrapped in a clean, theme-aware UI.
@@ -209,7 +211,33 @@ Dev tools: `flutter_lints`, `build_runner`, `hive_generator`, `flutter_launcher_
 - Cloud backup & sync across devices
 
 ---
+## GitHub Link 
+https://github.com/ronitagrawal2007/Focus-Grid.git
+## App Link
+https://github.com/ronitagrawal2007/Focus-Grid/releases/tag/v1.0.0
+## Image 
+<img width="300" alt="WhatsApp Image 2026-06-21 at 6 34 59 PM" src="https://github.com/user-attachments/assets/bda406bc-2142-48fd-9b19-fe06e4b27005" />
+<img width="300" alt="WhatsApp Image 2026-06-21 at 6 34 59 PM (1)" src="https://github.com/user-attachments/assets/d61a9b68-d244-4c31-8469-ca45fac4421e" />
+<img width="300" alt="WhatsApp Image 2026-06-21 at 6 34 58 PM" src="https://github.com/user-attachments/assets/cbd10212-d285-456b-bd3f-09e7e60ce862" />
+<img width="300" alt="WhatsApp Image 2026-06-21 at 6 34 58 PM (2)" src="https://github.com/user-attachments/assets/4e1e40cd-000f-418f-90ef-8126078f58ce" />
+<img width="300" alt="WhatsApp Image 2026-06-21 at 6 34 58 PM (1)" src="https://github.com/user-attachments/assets/57ac5a1a-1b24-414f-b352-4e7c145109a6" />
+<img width="300" alt="WhatsApp Image 2026-06-21 at 6 34 57 PM" src="https://github.com/user-attachments/assets/87216087-086c-414c-8ab3-0f2648a5d54d" />
+<img width="300" alt="WhatsApp Image 2026-06-21 at 6 34 57 PM (1)" src="https://github.com/user-attachments/assets/59eb0de9-8741-4806-9644-b7ed492b0ad6" />
+<img width="300" alt="WhatsApp Image 2026-06-21 at 6 34 56 PM" src="https://github.com/user-attachments/assets/7b465622-fc1b-4f96-a3d4-7846e1eb7c0c" />
+<img width="300" alt="WhatsApp Image 2026-06-21 at 6 34 56 PM (1)" src="https://github.com/user-attachments/assets/482df2d7-bdf7-4197-870f-253661de8495" />
+<img width="300" alt="WhatsApp Image 2026-06-21 at 6 34 55 PM" src="https://github.com/user-attachments/assets/e420eebf-0acd-4f7d-baea-b28def373ed4" />
+<img width="300" alt="WhatsApp Image 2026-06-21 at 6 34 55 PM (2)" src="https://github.com/user-attachments/assets/018ffd78-da09-4301-a186-4c80cfcf1974" />
+<img width="300" alt="WhatsApp Image 2026-06-21 at 6 34 55 PM (1)" src="https://github.com/user-attachments/assets/505c64d0-f772-4b2c-9853-c036aeae9efb" />
+<img width="300" alt="WhatsApp Image 2026-06-21 at 6 34 54 PM" src="https://github.com/user-attachments/assets/bfd47ce2-1c0b-4a46-8fc9-2bf1e4b4d159" />
+<img width="300" alt="WhatsApp Image 2026-06-21 at 6 35 02 PM" src="https://github.com/user-attachments/assets/f64b0935-2914-4b48-92f5-4b0f31ea3ba1" />
+<img width="300" alt="WhatsApp Image 2026-06-21 at 6 35 01 PM" src="https://github.com/user-attachments/assets/734e1ea5-926e-4814-aa9a-0b6ccd59dcc5" />
+<img width="300" alt="WhatsApp Image 2026-06-21 at 6 35 01 PM (2)" src="https://github.com/user-attachments/assets/f69a41d6-26ce-403a-b0e3-3d32c47d0e89" />
+<img width="300" alt="WhatsApp Image 2026-06-21 at 6 35 01 PM (1)" src="https://github.com/user-attachments/assets/9377b41c-5c5c-4d17-b007-e56e3dfa6051" />
+<img width="300" alt="WhatsApp Image 2026-06-21 at 6 35 00 PM" src="https://github.com/user-attachments/assets/7641e569-4d2d-46e6-bafe-83955160e95c" />
+<img width="300" alt="WhatsApp Image 2026-06-21 at 6 35 00 PM (1)" src="https://github.com/user-attachments/assets/66c7bfab-ec01-41fa-abca-e98b460804d3" />
 
+## Video
+https://github.com/user-attachments/assets/e681faf5-1e78-40fc-b148-0146dd591f20
 ## Author
 
 Designed and built independently as a personal productivity tool.
