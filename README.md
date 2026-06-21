@@ -213,5 +213,3 @@ Dev tools: `flutter_lints`, `build_runner`, `hive_generator`, `flutter_launcher_
 ## Author
 
 Designed and built independently as a personal productivity tool.
-#   F o c u s - G r i d  
- 
